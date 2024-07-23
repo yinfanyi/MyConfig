@@ -235,4 +235,5 @@
         },
     ],
     "workbench.activityBar.location": "hidden",
+    "zenMode.hideLineNumbers": false,
 }
