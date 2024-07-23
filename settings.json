@@ -72,6 +72,7 @@
         "<C-[>": false,
         "<C-]>": false,
         "<C-b>": false,
+        "<C-p>": false,
     },
     "vim.normalModeKeyBindingsNonRecursive": [
         {
