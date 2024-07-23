@@ -1,0 +1,237 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "editor.minimap.renderCharacters": false,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.gpuAcceleration": "on",
+    "editor.minimap.enabled": false,
+    "jupyter.askForKernelRestart": false,
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.defaultInterpreterPath": "C:\\Users\\18453\\Anaconda3\\envs\\physicalSimulation\\python.exe",
+    "matlab-in-vscode.matlabPybackend": true,
+    "matlab-in-vscode.matlabStartup": [
+        "disp(['Working directory: ', pwd]);"
+    ],
+    "matlab-in-vscode.matlabPythonPath": "C:\\Users\\yinfanyi\\.conda\\envs\\python310\\python.exe",
+    "git.confirmSync": false,
+    "redhat.telemetry.enabled": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "cmake.showOptionsMovedNotification": false,
+    "chatgpt.lang": "en",
+    "terminal.integrated.commandsToSkipShell": [
+        "matlab.interrupt"
+    ],
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmDelete": false,
+    "notebook.lineNumbers": "on",
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "interactiveWindow.executeWithShiftEnter": true,
+    "terminal.integrated.scrollback": 10000,
+    "editor.accessibilitySupport": "off",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "jupyter.themeMatplotlibPlots": true,
+    "workbench.editorAssociations": {
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+    },
+    "explorer.confirmPasteNative": false,
+    "editor.lineNumbers": "relative",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "vscode-office.openOutline": true,
+    "vim.autoSwitchInputMethod.enable": true,
+    "vim.autoSwitchInputMethod.obtainIMCmd": "D:\\\\document\\\\desktop\\\\program\\\\im-select.exe",
+    "vim.autoSwitchInputMethod.switchIMCmd": "D:\\\\document\\\\desktop\\\\program\\\\im-select.exe {im}",
+    "vim.autoSwitchInputMethod.defaultIM": "\"1033\"",
+    "vim.handleKeys": {
+        "<C-a>": false,
+        "<C-f>": false,
+        "<C-k>": false,
+        "<C-c>": false,
+        "<C-v>": false,
+        "<C-[>": false,
+        "<C-]>": false,
+        "<C-b>": false,
+    },
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "<leader>",
+                "g",
+                "c"
+            ],
+            "commands": [
+                "workbench.action.showCommands"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "h"
+            ],
+            "commands": [
+                "editor.action.showDefinitionPreviewHover"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "p"
+            ],
+            "commands": [
+                "editor.action.peekDefinition"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "i"
+            ],
+            "commands": [
+                "editor.action.goToImplementation"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "d"
+            ],
+            "commands": [
+                "editor.action.revealDefinition"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "b"
+            ],
+            "commands": [
+                "workbench.action.navigateBack"
+            ]
+        },
+        {
+            "before": [
+                "g",
+                "f"
+            ],
+            "commands": [
+                "workbench.action.navigateForward"
+            ]
+        },
+        {
+            "before": [
+                "t",
+                "n"
+            ],
+            "commands": [
+                ":tabnext"
+            ]
+        },
+        {
+            "before": [
+                "t",
+                "p"
+            ],
+            "commands": [
+                ":tabprev"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "s",
+                "h"
+            ],
+            "commands": [
+                "editor.action.showHover"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "o",
+                "f"
+            ],
+            "commands": [
+                "workbench.explorer.fileView.focus"
+            ],
+        },
+        // splits
+        {
+            "before": [
+                "<Leader>",
+                "v"
+            ],
+            "commands": [
+                ":vsplit"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "s"
+            ],
+            "commands": [
+                ":split"
+            ]
+        },
+        // panes
+        {
+            "before": [
+                "<Leader>",
+                "h"
+            ],
+            "commands": [
+                "workbench.action.focusLeftGroup"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "j"
+            ],
+            "commands": [
+                "workbench.action.focusBelowGroup"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "k"
+            ],
+            "commands": [
+                "workbench.action.focusAboveGroup"
+            ]
+        },
+        {
+            "before": [
+                "<Leader>",
+                "l"
+            ],
+            "commands": [
+                "workbench.action.focusRightGroup"
+            ]
+        },
+    ],
+    "workbench.activityBar.location": "hidden",
+}
